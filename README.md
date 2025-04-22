@@ -1,0 +1,2 @@
+# AI-Prompts
+Basic Prompt
